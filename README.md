@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-
+Just for testing : <img src="colortext.svg"/>
 
 - [Databases](#databases)
 - [Gaming](#gaming)
