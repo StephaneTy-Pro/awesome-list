@@ -19,23 +19,21 @@
 
 ## Table of Contents
 
-- [Tools](#tools)
-- [Programming Languages](#programming-languages)
-- [Front-end Development](#front-end-development)
-- [Back-end Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Miscellaneous](#miscellaneous)
 
+
+- [Databases](#databases)
+- [Gaming](#gaming)
+- [Learn](#learn)
+- [Media](#media)
+- [Miscellaneous](#miscellaneous)
+- [Tools](#tools) - 
+
+
+## Databases
+- [Query Express] (http://www/albahari.com/queryexpress.html) - A query analyzer which doesn't need install, fast, free et only 100ko (src www.hanselman.com/blog)
+
+## Learn
+- [Cloudschool] (http://www.cloudschool.org) - CloudSchool is a platefrom which allow you to discover or to share some teaching lessons (src : http://korben.info/cloudschool-creer-proposer-cours-ligne.html )
 
 ## Tools 
 > withous mentions all tools are for windows plateform
