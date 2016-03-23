@@ -40,7 +40,10 @@
 
 - Stuff I Just Dig.
 	- [Carnac] (http://code52.org/carnac) - This wonderfull tool show the hotkey's you're pressing as you press them, showing up as a little overlays in the corner (i use it to prepare my autoit automate)
-
+	- [Mouse Without Borders] (www.microsoft.com/en-us/download/details.aspx?id=35460) - Like Synergy but not cross plateform. It allow you to have one keyboard and one mouse for all your computers fleet.
+	- [httpie] (http://github.com/jkbrzt/httpie) Curl succesor ?
+- Text-expander
+	- [PhraseExpress] 
 - Text-transform.
 	-  [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
 - Misc.
