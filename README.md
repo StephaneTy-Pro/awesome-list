@@ -7,6 +7,12 @@
 	<br>
 </h1>
 
+> A curated list of awesome things i usually use
+
+- [What is an awesome list?](awesome.md)
+- [Thanx](thanx.md)
+
+
 ## Table of Contents
 
 - [Tools](#tools)
@@ -27,9 +33,9 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Tools
+## Tools (withous mentions all tools are for windows plateform)
 - [Text-transform]
-  - [PureText] Puretext allow you to copy on element and paste it without anyformat 
+  - [PureText] (http://www.stevemiller.net/puretext/) Puretext allow you to copy on element and paste it without anyformat 
 -
 
 
@@ -38,4 +44,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Stephane.Ty](http://torchy.me) has waived all copyright and related or neighboring rights to this work.
