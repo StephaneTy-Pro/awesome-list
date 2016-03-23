@@ -37,9 +37,10 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Tools (withous mentions all tools are for windows plateform)
-*Text-transform.*
-* [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
+## Tools 
+> withous mentions all tools are for windows plateform
+- Text-transform.
+	-  [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
 
 ## Books
 
