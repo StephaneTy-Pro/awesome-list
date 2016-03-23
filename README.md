@@ -19,10 +19,10 @@
 
 ## Table of Contents
 
-Just for testing : <img src="colortext.svg"/>
-Just for testing : [![img](colortext.svg)]
-Just for testing : [![img](https://github.com/StephaneTy-Pro/awesome-list/colortext.svg)]
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)]
+
+Just for testing : [![img](colortext.svg)] pb de chemin surement
+
+
 
 - [Databases](#databases)
 - [Gaming](#gaming)
