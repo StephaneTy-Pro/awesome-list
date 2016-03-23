@@ -39,8 +39,11 @@
 
 ## Tools 
 > withous mentions all tools are for windows plateform
+
 - Text-transform.
 	-  [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
+- Misc
+ 	- [DeskPin] (http://efotinis.neocities.org/deskpins/index.html) - Deskpin allow you to pin a window so that it appears "Always on Top"
 
 ## Books
 
