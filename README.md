@@ -7,10 +7,14 @@
 	<br>
 </h1>
 
-> A curated list of awesome things i usually use
+> A curated list of awesome things i usually use. Inspired by [Sindre Sorhus](https://github.com/sindresorhus/awesome) one.
 
 - [What is an awesome list?](awesome.md)
 - [Thanx](thanx.md)
+
+[![Join the chat at https://gitter.im/stephanety-pro/awesome-list](https://badges.gitter.im/stephanety-pro/awesome-list.svg)](https://gitter.im/stephanety-pro/awesome-list?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
 
 ## Table of Contents
@@ -34,9 +38,9 @@
 
 
 ## Tools (withous mentions all tools are for windows plateform)
-- [Text-transform]
-  - [PureText] (http://www.stevemiller.net/puretext/) Puretext allow you to copy on element and paste it without anyformat 
--
+*Text-transform.*
+* [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
+
 
 
 
