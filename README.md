@@ -20,6 +20,8 @@
 ## Table of Contents
 
 Just for testing : <img src="colortext.svg"/>
+Just for testing : [![img]("colortext.svg")]
+Just for testing : [![img]("https://github.com/StephaneTy-Pro/awesome-list/colortext.svg")]
 
 - [Databases](#databases)
 - [Gaming](#gaming)
