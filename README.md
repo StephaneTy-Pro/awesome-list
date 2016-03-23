@@ -40,9 +40,12 @@
 ## Tools 
 > withous mentions all tools are for windows plateform
 
+- Stuff I Just Dig.
+	- [Carnac] (http://code52.org/carnac) - This wonderfull tool show the hotkey's you're pressing as you press them, showing up as a little overlays in the corner (i use it to prepare my autoit automate)
+
 - Text-transform.
 	-  [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
-- Misc
+- Misc.
  	- [DeskPin] (http://efotinis.neocities.org/deskpins/index.html) - Deskpin allow you to pin a window so that it appears "Always on Top"
 
 ## Books
