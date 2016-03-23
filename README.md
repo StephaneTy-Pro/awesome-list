@@ -41,7 +41,13 @@
 *Text-transform.*
 * [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
 
+## Books
 
+- [Free Programming Books](https://github.com/vhf/free-programming-books)
+- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [R Books](https://github.com/RomanTsegelskyi/rbooks)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 
 
 ## License
