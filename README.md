@@ -26,14 +26,14 @@
 - [Learn](#learn)
 - [Media](#media)
 - [Miscellaneous](#miscellaneous)
-- [Tools](#tools) - 
+- [Tools](#tools)
 
 
 ## Databases
-- [Query Express] (http://www/albahari.com/queryexpress.html) - A query analyzer which doesn't need install, fast, free et only 100ko (src www.hanselman.com/blog)
+- [Query Express] (http://www/albahari.com/queryexpress.html) - A query analyzer which doesn't need install, fast, free et only 100ko [src](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
 ## Learn
-- [Cloudschool] (http://www.cloudschool.org) - CloudSchool is a platefrom which allow you to discover or to share some teaching lessons (src : http://korben.info/cloudschool-creer-proposer-cours-ligne.html )
+- [Cloudschool] (http://www.cloudschool.org) - CloudSchool is a platefrom which allow you to discover or to share some teaching lessons [src](http://korben.info/cloudschool-creer-proposer-cours-ligne.html)
 
 ## Tools 
 > withous mentions all tools are for windows plateform
