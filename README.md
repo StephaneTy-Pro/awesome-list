@@ -25,6 +25,7 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 
 
 - [Databases](#databases)
+- [Dev](#dev)
 - [Gaming](#gaming)
 - [Learn](#learn)
 - [Media](#media)
@@ -34,6 +35,11 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 
 ## Databases
 - [Query Express] (http://www/albahari.com/queryexpress.html) - A query analyzer which doesn't need install, fast, free et only 100ko [src](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
+
+## Dev
+- Javascript
+	- For The Web
+		- [StickyState] (https://github.com/soenkekluth/sticky-state) - StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature. 
 
 ## Learn
 - [Cloudschool] (http://www.cloudschool.org) - CloudSchool is a platefrom which allow you to discover or to share some teaching lessons [src](http://korben.info/cloudschool-creer-proposer-cours-ligne.html)
