@@ -40,6 +40,8 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 - Javascript
 	- For The Web
 		- [StickyState] (https://github.com/soenkekluth/sticky-state) - StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature. 
+- C++
+ 	- [PocketCPP] (https://github.com/dacap/pocketcpp) - an exe which is a 7zip autoextractible c++ environnement with no need for install. Tested for LuaJit compilation, work like a charm. 
 
 ## Learn
 - [Cloudschool] (http://www.cloudschool.org) - CloudSchool is a platefrom which allow you to discover or to share some teaching lessons [src](http://korben.info/cloudschool-creer-proposer-cours-ligne.html)
@@ -51,7 +53,7 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 	- [Carnac] (http://code52.org/carnac) - This wonderfull tool show the hotkey's you're pressing as you press them, showing up as a little overlays in the corner (i use it to prepare my autoit automate)
 	- [Mouse Without Borders] (www.microsoft.com/en-us/download/details.aspx?id=35460) - Like Synergy but not cross plateform. It allow you to have one keyboard and one mouse for all your computers fleet.
 	- [httpie] (http://github.com/jkbrzt/httpie) Curl succesor ?
-	- 
+	
 - Editor
 	- [MarkdownEditor] (http://georgeosddev.github.io/markdown-edit/) Online markdown editor which is fast, and have a dual panel with preview. Must have !
 - Text-expander
