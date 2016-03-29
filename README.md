@@ -42,6 +42,8 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 		- [StickyState] (https://github.com/soenkekluth/sticky-state) - StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature. 
 - C++
  	- [PocketCPP] (https://github.com/dacap/pocketcpp) - an exe which is a 7zip autoextractible c++ environnement with no need for install. Tested for LuaJit compilation, work like a charm. 
+ - PHP
+ 	- [Php The RightWay] (http://www.phptherightway.com/) - A list of good practices for PHP lang 	
 
 ## Learn
 - [Cloudschool] (http://www.cloudschool.org) - CloudSchool is a platefrom which allow you to discover or to share some teaching lessons [src](http://korben.info/cloudschool-creer-proposer-cours-ligne.html)
