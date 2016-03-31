@@ -3,6 +3,7 @@
 - Language
   - D
     - Template Systeme [mustache-d] () 
+  - [Red] (http://www.red-lang.org/p/documentation.html) The Red Language
   - Go 
     - Package manager [Glide] (https://github.com/Masterminds/glide)   
 
