@@ -3,7 +3,7 @@
 - Language
   - D
     - Template Systeme [mustache-d] () 
-  - [Red] (http://www.red-lang.org/p/documentation.html) The Red Language
+  - [Red] (http://www.red-lang.org/p/documentation.html) The Red Language, successor of Rebol, but with compilation in mind :D
   - Go 
     - Package manager [Glide] (https://github.com/Masterminds/glide)   
 
