@@ -64,6 +64,8 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 	-  [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
 - Misc.
  	- [DeskPin] (http://efotinis.neocities.org/deskpins/index.html) - Deskpin allow you to pin a window so that it appears "Always on Top"
+- System
+	- [BCUnistaller] (http://klocmansoftware.weebly.com/) - Uninstaller with ability to batchuninstall (multiuninstall)	
 
 ## Books
 
