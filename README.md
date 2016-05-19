@@ -31,6 +31,7 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 - [Media](#media)
 - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 
 
 ## Databases
@@ -64,10 +65,16 @@ Just for testing : [![img](colortext.svg)] pb de chemin surement
 	- [PhraseExpress] 
 - Text-transform.
 	-  [PureText] (http://www.stevemiller.net/puretext) - Puretext allow you to copy on element and paste it without anyformat 
+- Text-tools
+	- [list of structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - Misc.
  	- [DeskPin] (http://efotinis.neocities.org/deskpins/index.html) - Deskpin allow you to pin a window so that it appears "Always on Top"
 - System
-	- [BCUnistaller] (http://klocmansoftware.weebly.com/) - Uninstaller with ability to batchuninstall (multiuninstall)	
+	- [BCUnistaller] (http://klocmansoftware.weebly.com/) - Uninstaller with ability to batchuninstall (multiuninstall)
+
+##Tutorials
+- CSS/Js
+	- [The Aviator] (http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs) - Mini Game aviator (Three.JS,WebGL) 
 
 ## Books
 
